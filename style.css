@@ -207,7 +207,7 @@ nav a.active {
 .gallery {
     max-width: 1100px;
     margin: auto;
-    padding: 80px 8%;
+    padding: 120px 8% 80px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 25px;
