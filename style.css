@@ -400,3 +400,8 @@ footer {
 .next-page .button {
     display: inline-block;
 }
+.gallery-item img.foto-masjid {
+    object-fit: contain;
+    object-position: center;
+    background: #eaf2eb;
+}
